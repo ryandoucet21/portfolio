@@ -828,3 +828,7 @@ body[data-theme="dark"] .text-muted {
     max-width: inherit;
   }
 }
+
+.project-image-anchor {
+    width: 200px;
+}
